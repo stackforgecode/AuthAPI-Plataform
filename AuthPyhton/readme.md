@@ -8,7 +8,7 @@
 
 Este repositório contém uma API de autenticação desenvolvida em Python usando o framework Django e o banco de dados PostgreSQL. A API permite registrar usuários, fazer login e gerar tokens de autenticação usando JWT (JSON Web Tokens).
 
-🏠 [Repositório no GitHub](https://github.com/stackforgecode/AuthAPI)
+🏠 [Repositório no GitHub](https://github.com/stackforgecode/AuthAPI-Plataform)
 
 🔑 **Características principais:**
 - Registro de usuários com campos personalizados
