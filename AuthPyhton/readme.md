@@ -83,6 +83,6 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](http
 - GitHub: [stackforgecode](https://github.com/stackforgecode)
 
 ✉️ **Contato:**
-Para quaisquer dúvidas ou sugestões, sinta-se à vontade para entrar em contato através do e-mail seuemail@example.com.
+Para quaisquer dúvidas ou sugestões, sinta-se à vontade para entrar em contato através do e-mail contato@stackforge.net.br.
 
 Agradeço pelo interesse no projeto e espero que seja útil para suas necessidades de autenticação com Django e PostgreSQL!
